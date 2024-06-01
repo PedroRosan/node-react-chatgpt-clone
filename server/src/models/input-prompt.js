@@ -1,7 +1,7 @@
-class InputPrompt {
-	constructor({prompt}){
-		this.prompt = prompt
-	}
+class InputPrompt{
+    constructor({prompt}){
+        this.prompt = prompt;
+    }
 }
 
-module.exports = InputPrompt
+module.exports = InputPrompt;
